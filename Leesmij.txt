@@ -1,0 +1,423 @@
+LEGO ROCK RAIDERS 
+
+Uitgegeven door LEGO Media International 1999
+
+LEESMIJ-bestand voor PC-versie (Windows95/98)
+		
+*******************************
+MINIMUMVEREISTEN
+*******************************
+
+Computer:	100% Windows 95/98 DirectX compatibele computer 
+			Spel is niet compatibel met Windows NT, OS/2, Linux of 	
+			Windows-achtig besturingssysteem.
+
+Processor:			Pentium 200 MHz MMX.
+
+Geheugen:			32MB RAM.   
+
+Beeldscherm:			4MB PCI of AGP Direct3D compatibele kaart.
+
+Cd-rom-station:			Quad speed of snellere cd-rom- of DVD-speler.
+
+Geluidskaart:		100% Windows 95/98 DirectX compatibele 16-bits geluidskaart
+
+Invoerapparaat:		100% Windows 95/98 compatibele joystick, muis en toetsenbord 
+	   
+Joystick/gamepad:	Geen.
+
+*******************************
+AANBEVOLEN SPECIFICATIES
+
+Computer:               100% Windows 95/98 DirectX Compatibele computer 
+			Spel niet compatibel met Windows NT, OS/2, Linux of 	
+			Windows-emulatie.
+
+Processor:			Pentium II 400 MHz MMX.
+
+Geheugen:			64 MB RAM.   
+
+Video:			16/32 MB PCI of AGP Direct3D compatibele kaart.
+
+CD-ROM:			12-speed of snellere CD-ROM / DVD drive.
+
+Geluidskaart:		100% Windows 95/98 DirectX compatibele 16-bit geluidskaart
+
+Invoerapparaat:	        100% Windows 95/98 compatibele muis en toetsenbord (Serieel/PS2 of USB)
+	   
+Joystick/Gamepad:       Geen
+
+
+DirectX
+Microsoft DirectX 6.1 staat op deze cd en moet worden geïnstalleerd om LEGO Rock Raiders te kunnen starten. Zie de handleiding met probleemoplossingen voor meer informatie over DirectX.
+
+Opmerking
+Voor de betreffende hardware hebt u waarschijnlijk de 'nieuwste' stuurprogramma's van Windows 95/98 nodig.
+Om met het spelprogramma te kunnen spelen moet de cd-rom in de cd-rom- of DVD-speler zijn geplaatst.
+
+Installatie
+Voor de installatie van het programma is minstens 150 MB vrije schijfruimte nodig. (Ongecomprimeerd)*
+
+* Ongecomprimeerd betekent dat er op de vaste schijf geen bestanden worden gecomprimeerd waardoor er geen extra ruimte op de schijf beschikbaar komt. Onder Windows 98 wordt voor het comprimeren van bestanden de optie Drivespace gebruikt.
+        
+Optie voor meerdere spelers
+Niet beschikbaar
+
+*********************************
+OVER DIT LEESMIJ-BESTAND
+*********************************
+
+Dit bestand bevat informatie die beschikbaar kwam toen de handleiding reeds was gedrukt.
+Zie de onderstaande sectie "Probleemoplossing" als er problemen zijn met het spelprogramma.
+
+Opmerking:
+
+LEGO Media International Limited kan niet verantwoordelijk worden gesteld voor problemen die het gevolg zijn van de informatie uit dit leesmij-bestand.
+
+**************************
+BASISINFORMATIE
+**************************
+
+V: Hoe installeer ik het spelprogramma?
+
+A: Plaats de cd-rom van LEGO Rock Raiders in het cd-rom-station.
+Na enkele seconden verschijnt het venster met instructies voor de installatie.
+Volg de instructies waarna na afloop wordt gemeld dat het programma is geïnstalleerd.
+
+Opmerking: Als de optie voor automatisch starten niet actief is, kan dit zijn gekoppeld aan de functie "Bericht bij automatisch invoegen" die is uitgeschakeld. Zie hiervoor "Probleemoplossing".
+           
+V: Hoe start ik het spelprogramma?
+
+A: Als u met uitzondering van het installatieprogramma eerst nog met andere programma's hebt gewerkt, kunt u het beste de computer opnieuw opstarten. Het spel kan het beste worden gespeeld zonder of met zo weinig mogelijk andere toepassingen. Start het spel pas als de vaste schijf niets meer doet.
+U start het spelprogramma door te klikken op Start, Programma's, LEGO Media, LEGO Rock Raiders. De cd-rom moet in de cd-rom- of DVD-speler zijn geplaatst.
+
+V: Hoe verwijder ik het spelprogramma?
+
+A: U kunt LEGO Rock Raiders het beste met de eigen verwijderoptie verwijderen. 
+U verwijdert het spelprogramma door te klikken op Start, Programma's, LEGO MEDIA, LEGO ROCK RAIDERS VERWIJDEREN.
+Opmerking: Opgeslagen spellen van LEGO Rock Raiders worden bij deze optie niet verwijderd. U zult deze zelf moeten verwijderen en wel als volgt: 
+
+Dubbelklik op het pictogram "Deze computer".
+Dubbelklik op het pictogram "C-drive (C)". 
+Dubbelklik op de map "Programmabestanden".
+Dubbelklik op de map "LEGO Media".
+Dubbelklik met de linker muisknop op de map "Games" 
+Klik eenmaal met de rechtermuisknop op de map "Rock Raiders".
+Selecteer "Verwijderen".
+Kies "Ja" om het verwijderen van de bestanden te bevestigen.
+
+V: Wat is 3D-hardware?
+
+A: Dit is een optioneel onderdeel dat in de computer kan worden geïnstalleerd en speciaal is bedoeld voor een driedimensionale weergave. 
+Veel nieuwe computers zijn voorzien van dergelijke hardware, maar het kan zijn dat uw computer daar niet over beschikt en dat u dus 3D-hardware of een 3D-kaart zult moeten aanschaffen. Vraag hiernaar bij uw PC-dealer. Dit spelprogramma werkt het beste als er een 3D-kaart in uw computer is geïnstalleerd.
+
+V: Mogen er andere programma's in de achtergrond draaien?
+
+A: Onze ervaring is dat het spelprogramma het beste tot zijn recht komt als er geen andere programma's actief zijn. Schakel dus een eventuele schermbeveiliging uit, omdat een dergelijk programma voor problemen kan zorgen als u met LEGO Rock Raiders gaat spelen. 
+Ook kunnen er problemen optreden met betrekking tot het beeld, geluid en geheugen als er andere programma's zoals antivirusprogramma's actief zijn. Hieronder vallen ook programma's die in de map Opstarten staan en automatisch worden gestart als Windows start, zoals de werkbalk van Microsoft Office. Van enkele van deze programma's staan er pictogrammen op de taakbalk. Als er pictogrammen op de taakbalk staan, klikt u daar met de rechtermuisknop op en selecteert u de optie waarmee u die pictogrammen, dus de onderliggende programma's, uitschakelt of sluit. Start dan pas LEGO Rock Raiders. Wanneer u de computer start, zult u zien dat deze pictogrammen weer op de taakbalk staan. Als u ze niet vanaf de taakbalk kunt uitschakelen en er doen zich problemen voor tijdens het spelen met LEGO Rock Raiders, zou u de snelkoppelingen van deze programma's uit de map Opstarten kunnen verwijderen. Raadpleeg de handleiding bij Windows of een technicus voor meer informatie.
+
+*************************
+PROBLEEMOPLOSSING
+*************************
+
+V. Hoe controleer ik of de beeldschermresolutie juist is ingesteld voor dit spelprogramma?
+
+A. Plaats de muisaanwijzer op een leeg gedeelte van het bureaublad van Windows en klik met de rechter muisknop. Er verschijnt een menu. Kies in dit menu de optie "Eigenschappen". Het dialoogvenster "Eigenschappen voor Beeldscherm" verschijnt. Klik daarin op de tab "Instellingen". De optie Kleuren moet zijn ingesteld op Hoge kleuren (16-bits) en de optie Scherm minimaal op 640 bij 480 pixels. Wijzig deze instellingen indien nodig en start vervolgens uw systeem opnieuw op.
+  
+V: Mijn muis werkt niet.
+
+A: Voor dit spelprogramma hebt u een muis en stuurprogramma nodig die compatibel zijn met Windows 95/98. Het verdient de voorkeur de muis opnieuw te installeren met de stuurprogramma's van Windows of neem, indien nodig, contact op met de leverancier van de muis voor compatibele Windows-stuurprogramma's.
+
+V. De installatie van het programma start niet automatisch als de LEGO Rock Raiders cd-rom in het cd-rom-station wordt geplaatst.
+
+A. Het Bericht bij automatisch invoegen voor het cd-rom-station moet zijn ingeschakeld.
+     U controleert als volgt of deze optie is ingeschakeld:
+     Dubbelklik op het pictogram "Deze computer".
+     Dubbelklik op het pictogram "Configuratiescherm".
+     Dubbelklik op het pictogram "Systeem".
+     Klik op de tab "Apparaatbeheer".
+     Dubbelklik op het pictogram "Cd-rom".
+     Dubbelklik op de naam van de cd-rom.
+     Klik op de tab "Instellingen".
+     Schakel het selectievakje Bericht bij automatisch invoegen in door erop te klikken.
+     Klik op OK om de instelling op te slaan.
+  
+V. Hoe controleer ik of alle DirectX 6.1-stuurprogramma's goed zijn?
+
+A. Windows 95/98 met DirectX 6.1. Met DirectX 6.1 kunt u controleren of DirectX goed is ingesteld: 
+
+Dubbelklik op het pictogram "Deze computer".
+Dubbelklik op het pictogram "C-drive (C)".
+Dubbelklik op het pictogram "Programmabestanden".
+Dubbelklik op het pictogram "DirectX".
+Dubbelklik met de linker muisknop op het pictogram "Setup".
+Dubbelklik op het pictogram "Dxdiag". 
+(Dit is de blauwe cirkel met een geel kruis erin.) 
+
+Er verschijnt een venster met meerdere tabbladen. Klik op de tab DirectX Drivers. Alle stuurprogramma's worden weergegeven met onder in het scherm een opmerking in het veld Notes. In dit paneel staan de gevonden problemen. Als een of meer items met "uncertified" worden aangegeven, zijn deze items hoogstwaarschijnlijk de oorzaak van het probleem. Meestal zijn de onofficiële stuurprogramma's het stuurprogramma voor het primaire beeldscherm of voor het geluid. (Let op: sommige fabrikanten verstrekken geen gecertificeerde stuurprogramma's voor hun producten, hoewel het spel desondanks wel goed kan werken). Veel fabrikanten van video- of audiokaarten leveren bijgewerkte stuurprogramma's voor Windows 95/98 om te kunnen voldoen aan de DirectX-standaard. Neem voor stuurprogramma's die DirectX ondersteunen, contact op met de leverancier van het onderdeel dat niet wordt ondersteund.
+
+V: DXSetup Error -7 of -8 
+
+A: U kunt de fout DXSetup Error -7 of DXSetup Error -8 tegenkomen tijdens de installatie van DirectX als audiocompressie, geluidsrecorder en volumeregeling niet op uw computer waren geïnstalleerd toen u DirectX 6.1 ging installeren.
+
+Voeg de geluidsrecorder, volumeregeling en audiocompressie toe. De geluidsrecorder, volumeregeling en audiocompressie van Windows zijn onontbeerlijk voor DirectX 6.1. Als deze onderdelen niet tijdens de installatie van Windows zijn geïnstalleerd, moet u ze alsnog installeren voordat u LEGO Rock Raiders gaat installeren. Tijdens de installatie vraagt DirectX om de Windows-cd als deze onderdelen niet aanwezig zijn. Dit kan tot gevolg hebben dat DirectX niet goed wordt geïnstalleerd en de fout DXSetup
+Error -7 of DXSetup Error -8 verschijnt nadat u naar de Windows-cd bent gegaan. Als dit zich voordoet, moet u de computer opnieuw opstarten en als volgt te werk gaan.
+
+     Voeg deze onderdelen van Windows toe.
+
+     Dubbelklik op het pictogram "Deze computer".
+     Dubbelklik op het pictogram "Configuratiescherm".
+     Dubbelklik op het pictogram "Software".
+     Klik op de tab "Windows Setup". 
+     Klik op Multimedia en vervolgens op Details.
+     Schakel de selectievakjes bij Audiocompressie, Geluidsrecorder en Volumeregeling in.
+     Klik op OK en nogmaals op OK om deze vensters te sluiten. 
+     U wordt gevraagd de Windows-cd te plaatsen.
+
+Hierna kunt u verdergaan met de installatie van DirectX 6.1.
+
+V: Wat is DirectX?
+
+A: Het DirectX-platform biedt een omgeving waarin ontwikkelaars een standaardformaat kunnen gebruiken bij het programmeren van een toepassing. Zo wordt het makkelijker ondersteuning te bieden voor een groot aantal verschillende hardwarefuncties. Voordat DirectX beschikbaar was moesten ontwikkelaars hardwarespecifieke code schrijven met voor elk stuk hardware een ander stuurprogramma. DirectX is een bibliotheek van Microsoft die binnen het besturingssysteem draait en programmeurs een naadloze toegang tot alle beschikbare hardwarefuncties biedt.
+
+Opmerking:
+
+Sommige oude systemen bevatten hardware die waarschijnlijk niet 100% compatibel is met DirectX. Voor optimale werking van LEGO Rock Raiders moet uw systeem DirectX volledig ondersteunen. Veel fabrikanten stellen bijgewerkte stuurprogramma's beschikbaar, hoewel sommige oudere apparaten niet meer worden ondersteund.
+Als u niet weet of DirectX volledig door uw systeem wordt ondersteund, kunt u het beste contact opnemen met de leverancier van uw computer.
+
+DirectDraw
+
+Met DirectDraw hebben programmeurs direct toegang tot de videohardware en het videogeheugen. Hierdoor verbeteren de prestaties zonder dat er wordt ingeboet op de compatibiliteit met Windows.
+
+Direct3D
+
+Direct3D voorziet in rechtstreekse toegang tot 3D-hardware. Direct3D werkt met de meest gangbare 3D-kaarten en biedt programmeurs een makkelijke interface voor de 3D-hardware. Direct3D en de 3D-versneller zorgen voor meer snelheid en een betere beeldkwaliteit.
+
+DirectSound
+
+DirectSound is het wave-gedeelte van DirectX, met volledige functionaliteit en hardwareversnelling voor het geluidsapparaat. Hierdoor kunnen alle functies en voorzieningen van de geluidshardware worden gebruikt, waaronder 3D-geluid en interactief geluid.
+
+DirectInput
+
+DirectInput voorziet in ondersteuning voor invoerapparaten, zoals muizen, toetsenborden, joysticks en andere spelcontrollers. Direct Input geeft sneller toegang tot invoergegevens door niet via Windows maar rechtstreeks met het stuurprogramma van de hardware te communiceren.
+
+DirectPlay
+
+Dit is de spelmodule in DirectX voor meerdere spelers met de mogelijkheid het spel via een netwerk te spelen. DirectPlay ondersteunt rechtstreekse seriële verbindingen en spelen via een modem, netwerk of Internet. (Let op: dit spel beschikt niet over deze eigenschappen).
+
+Opmerkingen over het DirectX-stuurprogramma
+
+Wij raden het gebruik van de DirectX 6.1-stuurprogramma's aan waaraan tijdens de installatie van DirectX de voorkeur wordt gegeven, tenzij u na de installatie van DirectX problemen met het programma hebt gekregen. U mag hiervan alleen afwijken als in het gedeelte dat specifiek over uw hardware gaat, wordt aangegeven dat u een ander stuurprogramma moet gebruiken. Dit geldt vooral voor de stuurprogramma's van videokaarten.
+
+Effecten van de installatie van een videokaartstuurprogramma door DirectX
+  
+Wanneer DirectX wordt geïnstalleerd, kunnen sommige hulpprogramma's van de videokaart worden uitgeschakeld, zoals Diamond Multimedia's In Control Tools, STB Vision95 of de Creative Labs Graphics Control-hulpprogramma's. Dan kunt u deze hulpprogramma's waarschijnlijk niet meer via hun pictogrammen op de taakbalk starten en worden de eigenschappen van uw beeldscherm weer volgens Windows ingesteld. 
+DirectX raadt wellicht aan het stuurprogramma voor de kaart helemaal niet te veranderen omdat u met deze hulpprogramma's het beeldscherm instelt en het verwijderen van deze hulpprogramma's een nadelig effect op uw computer kan hebben.
+
+*******************************
+STUURPROGRAMMA'S VOOR 3D-HARDWARE
+*******************************
+
+V: Wat is een stuurprogramma voor 3D-hardware?
+
+A: Een dergelijk stuurprogramma wordt ook wel 'stuurprogramma voor 3D-kaart' genoemd en maakt deel uit van de software-interface waarmee dit spelprogramma communiceert met de 3D-hardware in uw computer. U moet het stuurprogramma bijwerken als het spelprogramma niet goed werkt, bijvoorbeeld als er een berichtvenster verschijnt, het spel hapert en de afbeeldingen knipperen.
+
+V: Ik heb het nieuwste stuurprogramma voor mijn 3D-hardware nodig. Hoe kom ik aan dat stuurprogramma?
+
+A: Door het programma vanaf Internet te laden. Als u geen verbinding met Internet hebt, moet u contact opnemen met de leverancier van de 3D-hardware of uw PC-dealer/helpline en vragen of hij een diskette met het nieuwste stuurprogramma wil opsturen.
+
+Op de volgende websites kunt u stuurprogramma's voor 3D-hardware vinden:
+
+http://www.drivershq.com 
+http://www.download.com
+http://www.3dfx.com (voor kaarten die op 3Dfx zijn gebaseerd)
+
+Zie "Adressen van websites" aan het einde van dit bestand voor een lijst met websiteadressen.
+
+***********************************
+ONDERSTEUNDE 3D-HARDWARE
+***********************************
+
+Dit spelprogramma gebruikt Direct3D voor ondersteuning van de meest recente 3D-hardwarechipsets.
+De volgende 3D-chipsets zijn getest:
+
+ATi Rage Pro
+ATi Rage IIc
+Voodoo Banshee
+Voodoo3
+Matrox MGA 400
+Matrox MGA 200S3 Trio 3D
+SiS
+TNT
+TNT2
+Savage 4
+Intel i740
+STB Velocity 3D
+Permedia 2
+
+
+Op uw kaart moet minstens 4MB geheugen zijn geïnstalleerd.
+De nieuwste generatie kaarten voldoet daaraan. Raadpleeg indien nodig de documentatie bij uw systeem of de 3D-hardware voor aanvullende informatie.
+
+************************
+GRAFISCHE KAARTEN.
+************************
+
+LEGO Rock Raiders is met de volgende grafische kaarten getest.
+
+Opmerking:
+
+Voor al deze kaarten waren de nieuwste stuurprogramma's geïnstalleerd.
+
+Raadpleeg de betreffende websites aan het einde van dit bestand voor de adressen van de fabrikanten van onderstaande kaarten.
+
+ATi Rage 128 AGP
+ATi Rage IIc AGP
+ATi Rage Pro Turbo AGP
+ATi Rage Pro AGP
+ATi All-In-Wonder Pro AGP
+ATi Xpert@Work AGP
+Voodoo3 2000 PCI/AGP
+Voodoo3 3000 AGP
+Matrox G400 AGP
+Matrox G200 AGP
+SiS 6326 AGP
+Diamond Viper 330 AGP
+Diamond Viper V770/770 Ultra AGP
+3D Blaster Banshee PCI/AGP
+Savage 4 AGP
+STB Velocity 3D
+Intel i740 AGP
+Viewtop Permedia 2 AGP
+
+***********************
+SPELEN VIA HET NETWERK
+***********************
+
+Niet ondersteund in dit spel.
+
+******************
+ANDERE ONDERWERPEN
+******************
+
+Als u blijvende problemen ondervindt:
+
+1) Zorg ervoor dat u:
+
+   - De computer opnieuw hebt opgestart
+   - Geopende toepassingen indien mogelijk hebt gesloten
+   - Uw harde schijf heeft gedefragmenteerd om sneller toegang tot bestanden                                        te krijgen
+   - Hebt gewacht totdat de vaste schijf geen activiteiten meer uitvoerde
+   - De meest recente stuurprogramma's hebt geïnstalleerd 
+   - Alleen over de officiële DirectX-stuurprogramma's beschikt
+   - Het spelprogramma hebt verwijderd en opnieuw geïnstalleerd.
+
+2) Lees de sectie "PROBLEEMOPLOSSING" door.
+
+3) Zie de sectie "TECHNISCHE ONDERSTEUNING" hierna als er toch nog problemen zijn.
+
+********************
+BEKENDE PROBLEMEN
+********************
+
+1. Op machines met 32MB kan het spel langzaam draaien vanwege de audio-help in het spel. Er zijn daarom twee versies van LEGO Rock Raiders op deze CD. De eerste is de STANDAARDINSTALLATIE voor gebruikers van 32MB, de andere is de GROTE INSTALLATIE voor 64MB of meer. U kunt de gewenste versie kiezen via START/PROGRAMMA'S/LEGO MEDIA/ROCK RAIDERS.
+ 
+2. Sommige grafische kaarten blijken problemen te hebben met het weergeven van textures. Sommige kaarten zijn voorzien van hulpprogramma's waarmee de gebruiker het geheugen voor deze textures kan bewerken. Het vergroten of verkleinen van het geheugen voor textures heeft soms gevolgen voor de snelheid van het spel. 
+
+3.    Als het aanpassen van de hulpprogramma's voor de grafische kaart de prestatie niet beïnvloedt, probeer dan de volgende instructies op de opdrachtregel: 
+
+-nosound (Dit schakelt AL het geluid in het spel uit, behalve voor filmpjes)
+                                
+-ftm (Hiermee gebruikt de grafische kaart al het beschikbare texture geheugen)
+                                
+-fvf (Dit kan op sommige kaarten 'mist' voorkomen)
+
+-reward (Dit schakelt de animatie op het beloningsscherm uit)
+
+-nom (Dit schakelt het texture-beheer uit bij kaarten op Voodoo2 basis)
+
+Om een (of meer) van deze opties te gebruiken met je met rechts op het LEGO Rock Raiders pictogram op het bureaublad klikken en 'Eigenschappen' selecteren. Je ziet dan op het tabblad 'Snelkoppeling' de 'Pad' regel. Klik in dit vak en ga met de rechter pijltoets naar het einde van de regel. Druk nu eenmaal op de spatiebalk en typ de juiste opdrachtregel. 
+
+4. Sommige grafische kaarten blijken niet in staat te zijn om om te gaan met de transparante beelden in LEGO Rock Raiders. Daarom kunnen op sommige momenten grijze of zwarte vakken zichtbaar zijn. Er is helaas geen manier om dit te verhelpen behalve door nieuwe stuurprogramma's op te halen bij de fabrikant van de grafische kaart om te zien of hiermee het probleem wordt opgelost. 
+
+5. Het kan zijn dat het starten van LEGO Rock Raiders even duurt. Dit komt doordat het programma eerst de 'hoofd-engine' installeert. 
+
+****************************
+ADRESSEN VAN WEBSITES
+****************************
+
+3Dfx Interactive			www.3dfx.com
+Acer				www.acer.com
+Alliance Semiconductor		www.alsc.com
+Asus				www.asus.com
+ATI Technologies		www.atitech.com
+Aureal Semiconductor		www.a3d.com
+Aztech Labs			www.aztechca.com of www.aztech.com.sg
+Canopus				www.canopuscorp.com
+Cirrus Logic			www.cirrus.com
+Compaq				www.compaq.com
+Creative Labs			www.creativelabs.com
+Crystal Semiconductor		www.crystal.com
+DELL Computer			www.dell.com
+Diamond Multimedia		www.diamondmm.com
+Elsa				www.elsa.com
+Ensoniq				www.ensoniq.com
+ESS Technologies		www.esstech.com
+Gateway 2000			www.gateway2000.com
+Guillemot			www.guillemot.com
+Hercules				www.hercules.com
+Hewlett Packard			www.hp.com
+IBM				www.ibm.com
+Intel				www.intel.com
+Intergraph			www.intergraph.com
+Jaton				www.jaton.com
+Matrox				www.matrox.com
+Media Vision			www.svtus.com
+MediaSonic			www.mediasonic.com
+Number Nine			www.nine.com
+Oak Technology			www.oaktech.com
+OPTi				www.opti.com
+Orchid				www.orchid.com
+Packard Bell			www.packardbell.com
+Real 3D				www.real3d.com
+Rendition			www.rendition.com
+STB Systems			www.stb.com
+Trident				www.tridentmicro.com
+Turtle Beach			www.tbeach.com
+Yamaha				www.yamaha.com
+
+*****************************************************
+TECHNISCHE ONDERSTEUNING (ALLEEN IN GROOT-BRITTANNIË
+*****************************************************
+
+Technische ondersteuning:		0870 600 3003 
+Fax:				0870 600 3004
+E-mail:				help@uk.legomedia.com
+Kantoortijden:			09.30 - 18.30 van maandag tot vrijdag
+				(gesloten tijdens het weekend en op feestdagen)
+			
+World Wide Web:		www.legomedia.com
+
+Adres:				Technical Support
+				LEGO Media International Limited
+				100 Hammersmith Road
+				London
+				W6 7JP
+				Engeland
+
+In het onwaarschijnlijke geval dat de software gebreken vertoont of niet compatibel is met uw hardware, kunt u het complete pakket met bewijs van aankoop naar de plaats van aankoop terugsturen/terugbrengen.
+
+Als u telefonisch contact opneemt, moet u ervoor zorgen dat u achter de computer zit en dat u ons zoveel mogelijk informatie kunt verstrekken. Zorg voor de volgende hardwaregegevens:
+
+- Snelheid en merk van de processor
+- Merk en model van de geluids- en videokaart
+- Merk en model van het cd-rom- of DVD-station
+- Hoeveelheid RAM
+- Andere hardware en randapparatuur
+- Eventuele foutberichten
+- Alle informatie over DirectX (dit is beschikbaar door op 'Save All Information' te klikken in het hoofdvenster van DXDIAG. Zie het gedeelte DirectX bij probleemoplossing).
+
+
+Opmerking: Neem bij vragen over de systeeminformatie contact op met de leverancier van uw computer.
+
+-Einde-
